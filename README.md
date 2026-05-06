@@ -1,23 +1,44 @@
-### Hi there 👋
+# Hi! 👋
 
-<!--
-**J-Morocho/J-Morocho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/jmorocho)
+[![Email](https://img.shields.io/badge/Email-jmorocho.dev%40gmail.com-lightgrey)](mailto:jmorocho.dev@gmail.com)
 
-Here are some ideas to get you started:
+I'm a Software Engineer based in the Greater NYC area with experience building full-stack applications, API integrations, and scalable web platforms. Passionate about clean code, developer experience, and building tools that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-## Languages
-JavaScript
-Python
+## 💻 Projects
 
-**Linkedin:** <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jmorocho" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jmorocho?trk=profile-badge">🚀 Jendri M.</a></div>
-              
+- **[Devtoob](#)** — A Ruby on Rails app that uses the YouTube API to aggregate educational computer science content. Features JWT-authenticated content voting mapped to application users.
+
+- **[Sharity](#)** — A React.js web app that simplifies donation drop-off and pick-up for non-profit organizations. Optimized with decoupled functional components and improved state management.
+
+---
+
+## 🛠️ Skills
+
+**Languages:** JavaScript, TypeScript, PHP, PostgreSQL
+
+**Tools & Frameworks:** React, Next.js, Node.js, Redux, Docker, Microservices, Salesforce, AWS Lambda, CI/CD, GitHub Actions, Jest, Testcafe, Storybook, Material UI, Datadog, REST, SOAP API, Mailchimp, JIRA, Git
+
+---
+
+## 📂 Experience
+
+**Crisis Text Line** — *Software Engineer* (2021–2025)
+> Built and maintained full-stack features for a global mental health platform serving thousands of users and volunteers.
+
+**Revolver Lifestyle S.L.** — *Backend Software Developer* (2020–2021)
+> Developed API integrations and AWS Lambda functions for a digital nomad travel booking startup.
+
+---
+
+## 🎓 Education
+
+- **The Marcy Lab School** — Breakthrough Software Engineering Fellowship (2021)
+- **General Assembly** — Software Engineering Immersive (2020)
+- **City University of New York, Queens College** — B.A. Applied Mathematics (2018)
+
+---
+
+Feel free to explore my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/jmorocho)!
