@@ -1,7 +1,6 @@
 # Hi! 👋
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/jmorocho)
-[![Email](https://img.shields.io/badge/Email-jmorocho.dev%40gmail.com-lightgrey)](mailto:jmorocho.dev@gmail.com)
 
 I'm a Software Engineer based in the Greater NYC area with experience building full-stack applications, API integrations, and scalable web platforms. Passionate about clean code, developer experience, and building tools that make a difference.
 
